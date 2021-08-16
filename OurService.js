@@ -45,9 +45,9 @@ customise your PC according to your Budget.
 <p>Get your desired PC at Cheapest Price</p>
 </div>
 <div className="col-lg-12 my-4">
-<NavLink to="#" className="btn btn-sm btn-info">
+{/* <NavLink to="#" className="btn btn-sm btn-info">
 Shop Now
-</NavLink>
+</NavLink> */}
 </div>
 </div>
 
